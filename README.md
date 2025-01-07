@@ -1,2 +1,2 @@
 # Tools
-Useful tools for software development
+This repo cotains some useful tools for software development
